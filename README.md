@@ -8,8 +8,7 @@
 
 
 <p>Quantum Key Distribution aims to share a private key between two communicating parties securely.</p>
-<p>The B92 protocol is similar in many ways to BB84. The biggest difference between the two protocols is that instead</p> 
-<p>of there being four possible states that Alice can send Bob, there are only two possible states that Alice sends Bob - $|0\rangle$ or $|+\rangle$.</p>
+<p>The B92 protocol is similar in many ways to BB84. The biggest difference between the two protocols is that instead of there being four possible states that Alice can send Bob, there are only two possible states that Alice sends Bob - $|0\rangle$ or $|+\rangle$.</p>
 
 <h2>In this notebook, we will explore one of the alternative protocols: <a href="https://github.com/fomalhautn/Quantum-Key-Distribution_The-B92-Protocol/blob/main/Quantum%20Challenge_QKD_B92%20protocol.ipynb"><em>QKD_B92 protocol.ipynb</em></a></h2>
 
